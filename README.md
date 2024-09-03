@@ -10,9 +10,10 @@ A Node.js application to track student placements, recruitment events, and inter
 - Email notifications
 
 ## Installation
-For This Project Used Node Version
-nvm use 20.12.1
-Run the following commands to install dependencies and start the application:
+- For This Project, I Used Node Version
+  ```bash
+  nvm use 20.12.1
+- Run the following commands to install dependencies and start the application:
 ```bash
 npm install
 npm start
