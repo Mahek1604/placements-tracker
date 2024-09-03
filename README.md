@@ -14,6 +14,6 @@ A Node.js application to track student placements, recruitment events, and inter
   ```bash
   nvm use 20.12.1
 - Run the following commands to install dependencies and start the application:
-```bash
-npm install
-npm start
+  ```bash
+  npm install
+  npm start
